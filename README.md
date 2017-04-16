@@ -1,4 +1,4 @@
-####G-Firefly简介+Firefly-Gevent重要迭代版本alpha 0.1.5介绍
+#### G-Firefly简介+Firefly-Gevent重要迭代版本alpha 0.1.5介绍
 在alpha 0.1.5做了如下的改进：
 １、单node节点断开与root节点的连接后自动重连。
 ２、修改了gfirefly的底层库gtiwsted,将socket发送数据放到一个协程中进处理，解决了
@@ -9,7 +9,7 @@
 
 gtwisted的开源地址:https://github.com/9miao/gtwisted
 
-####G-Firefly简介+Firefly-Gevent重要迭代版本alpha 0.1.2介绍
+#### G-Firefly简介+Firefly-Gevent重要迭代版本alpha 0.1.2介绍
 
 
 firefly-gevent 是firefly的gevent版本。相比现在的firefly版本使用的twisted，gevent更加的精简。<br/>
@@ -30,7 +30,7 @@ firefly-gevent结合了gevent的性能，封装了网络IO处理、数据库IO�
 
 
 
-####Firefly-gevent Alpha 0.1.2 Release – an Important Version Update
+#### Firefly-gevent Alpha 0.1.2 Release – an Important Version Update
 
 
 Firefly-gevent is firefly gevent version which is more of simplicity comparing to current Firefly twisted version.<br/>
